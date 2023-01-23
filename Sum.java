@@ -1,5 +1,6 @@
 public class SumOfNumbers3  
 {    
+  
 public static void main(String args[])   
 {            
 int x = 33, y = 55, a = -15, b = -23, sum, s;    
